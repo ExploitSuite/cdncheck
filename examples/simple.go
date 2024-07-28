@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/projectdiscovery/cdncheck"
+	"github.com/ExploitSuite/cdncheck"
 )
 
 func main() {

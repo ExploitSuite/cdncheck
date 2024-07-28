@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/ExploitSuite/cdncheck"
 	"github.com/logrusorgru/aurora"
 	"github.com/pkg/errors"
-	"github.com/projectdiscovery/cdncheck"
 	"github.com/projectdiscovery/gologger"
 	"github.com/projectdiscovery/mapcidr"
 	iputils "github.com/projectdiscovery/utils/ip"

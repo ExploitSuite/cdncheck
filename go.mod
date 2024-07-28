@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/cdncheck
+module github.com/ExploitSuite/cdncheck
 
 go 1.21
 

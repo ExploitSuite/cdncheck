@@ -7,9 +7,9 @@ import (
 	"log"
 	"os"
 
+	"github.com/ExploitSuite/cdncheck"
+	"github.com/ExploitSuite/cdncheck/generate"
 	"github.com/pkg/errors"
-	"github.com/projectdiscovery/cdncheck"
-	"github.com/projectdiscovery/cdncheck/generate"
 	"gopkg.in/yaml.v3"
 )
 

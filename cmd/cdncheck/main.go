@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/projectdiscovery/cdncheck/internal/runner"
+	"github.com/ExploitSuite/cdncheck/internal/runner"
 	"github.com/projectdiscovery/gologger"
 )
 
@@ -15,4 +15,3 @@ func main() {
 		gologger.Fatal().Msgf("Could not run cdncheck enumeration: %s\n", err)
 	}
 }
-
